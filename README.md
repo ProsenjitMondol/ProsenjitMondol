@@ -74,6 +74,6 @@
   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ProsenjitMondol&theme=default&utcOffset=6)
   ![](https://github-readme-stats.vercel.app/api/top-langs?username=ProsenjitMondol&show_icons=true&locale=en&layout=compact)
   
-  <a href="https://github.com/bhyeanhasan/"><img src="https://komarev.com/ghpvc/?username=Prosenjit-Mondol" alt="visitors" /></a>
+  <a href="https://github.com/bhyeanhasan/"><img src="https://komarev.com/ghpvc/?username=ProsenjitMondol" alt="visitors" /></a>
   
 </h1>
